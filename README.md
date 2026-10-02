@@ -1,12 +1,11 @@
 # Assignment 02: Clinic Encounter Summary
 
 ## Project description
-
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project is assignment 2 for the data science 217 couse on python where we are using the clicinic_encounters.csv file to understand systolic blood pressure data corresponding with the patient's follow up detials.  
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
 
 ## Files
 

@@ -1,0 +1,6 @@
+Cutoff: 150 mmHg
+Reason: I chose the cutoff of 150 because I know that the typical blood pressure level is 120 and when it is 150 it is usually the lowest value when there is concern.
+P006
+P011
+P018
+P025
